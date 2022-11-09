@@ -1,3 +1,5 @@
+# This repo has been moved to [electrikhq/slate](https://github.com/electrikhq/slate). Please use the new repo. This one is now read only.
+
 ![](https://opengraph.githubassets.com/master/neerajsohal/slate)
 
 # Slate
